@@ -24,6 +24,7 @@
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
   ![PIXI.JS](https://img.shields.io/badge/-PIXI.JS-333333?style=flat)
   ![WebGL](https://img.shields.io/badge/-WebGL-333333?style=flat&logo=webgl)
+  ![WebGPU](https://img.shields.io/badge/-WebGPU-333333?style=flat&logo=WebGPU)
   ![GLSL](https://img.shields.io/badge/-GLSL-333333?style=flat&logo=GLSL)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
