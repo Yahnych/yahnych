@@ -16,6 +16,8 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![AssemblyScript](https://img.shields.io/badge/-AssemblyScript-333333?style=flat&logo=assemblyscript)
   ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -40,8 +42,8 @@
 <br/>
 
 <a href="https://github.com/Yahnych">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yahnych&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahnych&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yahnych&theme=synthwave&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahnych&theme=synthwave&layout=compact" />
 </a>
 
 <br/>
