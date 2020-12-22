@@ -19,6 +19,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![AssemblyScript](https://img.shields.io/badge/-AssemblyScript-333333?style=flat&logo=assemblyscript)
   ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack&logoColor=563D7C)
+  ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
