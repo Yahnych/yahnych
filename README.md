@@ -51,5 +51,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-ivan777yahnych@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:ivan777yahnych@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ivan777yahnych@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
