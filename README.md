@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 &nbsp; I’m currently exploring new technologies and developing software solutions.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Game Development and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Game Development and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
