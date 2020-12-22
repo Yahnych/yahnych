@@ -1,5 +1,3 @@
-<img height="100em" src="https://i.imgur.com/gsg5MFW.png" />
-
 <h2> Hey there! I'm Ivan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
