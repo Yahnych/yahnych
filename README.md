@@ -20,6 +20,7 @@
   ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
   ![PIXI.JS](https://img.shields.io/badge/-PIXI.JS-333333?style=flat)
   ![WebGL](https://img.shields.io/badge/-WebGL-333333?style=flat&logo=webgl)
